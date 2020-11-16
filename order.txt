@@ -1,0 +1,20 @@
+sdfds
+Pizza index: 2
+Address Info: dssd, fdsdsf
+Phone-number: 333
+adilbek@gmail.com
+Pizza index: 6
+Address Info: Shymkent, Konaev
+Phone-number: 435345345
+sadsadsa
+Pizza index: 2
+Address Info: asdas, dsaasd
+Phone-number: 3333
+ewfwefew
+Pizza index: 1
+Address Info: dsfwe, fewfew
+Phone-number: 33345
+a@gmail.com
+Pizza index: 2
+Address Info: Astana, Asaa
+Phone-number: 45345345
